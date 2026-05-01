@@ -1,0 +1,5 @@
+node_modules/
+.codex-runtime/
+dist/
+.DS_Store
+*.log
